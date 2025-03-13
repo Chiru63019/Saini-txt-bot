@@ -31,9 +31,9 @@ credit ="🅲🅷🅸🆁🆄 𝘽𝙊𝙏𝙎"
 # Initialize the bot
 bot = Client(
     "bot",
-    api_id= "16944890",
-    api_hash= "89620275e7059e72624b046760ba8eaa",
-    bot_token="7922393246:AAFXlqRVfteZf2TxXmgHX13FiIeAQe-B3mU"
+    api_id= "27637482",
+    api_hash= "176348d88118523f5b898fd15e416694",
+    bot_token="8131765855:AAHi2Wu7FtH20mYWD2IoD8PY1M-tmPTpowM"
 )
 
 # Define aiohttp routes
